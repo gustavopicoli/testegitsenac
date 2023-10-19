@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M3o0JNscjKOFTFy6aGYaStQZgHi08b2WMnsmX7OWnlsWR+0OQGpstLmooBj/vGxU0miPb/zQkS3xGPwRtBts2g==",
+  "success": true,
+  "projectFilePath": "D:\\Nova pasta (2)\\TesteGIT\\TesteGIT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo Picoli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
